@@ -3,6 +3,6 @@
 echo "----- Starting BYOS for OpsMx -----"
 echo "----- Developed By Sagnik ------"
 
-echo "----- Never Settle -----"
 echo "----- I am running this from GitHub ------" 
+echo "----- This for Engineering Demo -----"
 
